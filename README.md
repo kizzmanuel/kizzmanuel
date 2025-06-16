@@ -12,7 +12,7 @@ A frontend developer passionate about building user-friendly and visually appeal
 - 🔭 I’m currently working on **UI Clones & Responsive Layouts**
 - 🌱 Sharpening my skills in **React**, **TypeScript**, and **Node.js**
 - 🤝 Open to collaboration on **open source** and **freelance** projects
-- ✍️ I love sharing and showcasing my progress on [Instagram](https://instagram.com/kizz.manueli)
+- ✍️ I love sharing and showcasing my progress on [Instagram](https://instagram.com/manuelcode_)
 - 💬 Ask me about **Frontend Development**, **JavaScript**, and **CSS tricks**
 
 ---
@@ -47,9 +47,9 @@ A frontend developer passionate about building user-friendly and visually appeal
 
 ### 🔗 Let's Connect
 
-- 📫 **Email**: alumonagoodness@gmail.com  
+- 📫 **Email**: emmanuelpolycarp530@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/emmanuelpolycarp)  
-- 📸 [Instagram](https://instagram.com/kizz.manueli)  
+- 📸 [Instagram](https://instagram.com/manuelcode_)  
 - 🐦 [Twitter](https://twitter.com/Kizzmanuel15)
 
 ---
