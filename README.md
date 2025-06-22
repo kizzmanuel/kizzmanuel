@@ -19,7 +19,7 @@ A frontend developer passionate about building user-friendly and visually appeal
 
 ### 📌 Pinned Project
 
-#### [🔗 NIMC UI Clone](https://github.com/kizzmanuel/NIMC-project)
+#### [🔗 NIMC UI Redesign ](https://github.com/kizzmanuel/NIMC-project)
 > A clean and responsive NIMC dashboard clone built with **HTML & CSS**  
 > 🎯 Focused on precision, layout responsiveness, and pixel-perfect design.
 
